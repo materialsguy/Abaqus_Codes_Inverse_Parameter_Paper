@@ -19,7 +19,8 @@ The Folder “Codes” includes the following files:
 
 *Analyse_sample.py:*
 <ul>
-	<li>The most important aspect of this code is that it allows the creation of field output at defined time points. The code also gives examples of extracting different paths from a model.</li>
+	<li>Allows the creation of field output at defined time points.</li>
+	<li>Shows how different paths can be extracted from a model.</li>
 </ul>
 
 *Boundary_conditions.py:*
