@@ -13,7 +13,7 @@ This Code allows the implementation of a complex, layered sample and evaluation 
 </ul>
 
 Graphical representation of the geometrical parameters used in the simulation:
-![alt text](https://raw.githubusercontent.com/materialsguy/Abaqus_Codes_Inverse_Parameter_Paper/main/Geometry.jpeg)
+![Image of the geometry](./Geometry.jpeg)
 
 The Folder “Codes” includes the following files:
 
