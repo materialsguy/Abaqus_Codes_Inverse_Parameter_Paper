@@ -7,9 +7,10 @@ The code was tested on the CentOS Linux version using Abaqus 2019 .HF6. All of t
 This Code allows the implementation of a complex, layered sample and evaluation in the commercial Abaqus software.
 
 *Define_and_Run_Models.py*
-
-Here your Geometrical and Simulational Parameters have to be defined. 
-You can choose between a Strain controlled and Force Controlled simulation and related Strain and Force amplitude.
+<ul>
+<li>Here your Geometrical and Simulational Parameters have to be defined. </li>
+<li>You can choose between a Strain controlled and Force Controlled simulation and related Strain and Force amplitude.</li>
+<ul>
 Graphical representation of the geometrical parameters used in the simulation:
 ![alt text](https://raw.githubusercontent.com/materialsguy/Abaqus_Codes_Inverse_Parameter_Paper/main/Geometry.jpeg)
 
@@ -52,7 +53,7 @@ The Folder “Codes” includes the following files:
 	<li>Defines the step and history output and allows the creation of time points to guarantee data analysis always at specific points (e.g. max and min amplitude)</li>
 </ul>
 
-Codes by Claus O. W. Trost 
+**Codes by Claus O. W. Trost**
 
 Published under a Creative Commons license:
 https://creativecommons.org/licenses/by-nc-nd/4.0/
