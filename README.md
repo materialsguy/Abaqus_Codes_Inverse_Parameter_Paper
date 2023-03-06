@@ -56,6 +56,17 @@ The Folder “Codes” includes the following files:
 	<li>Defines the step and history output and allows the creation of time points to guarantee data analysis always at specific points (e.g. max and min amplitude)</li>
 </ul>
 
+
+**µm UNIT System used:**
+LENGTH            µm
+FORCE             µN
+MASS              kg
+TIME              s
+STRESS            MPa
+ENERGY            pJ
+DENSITY           kg/µm^3 = 10^18*kg/m^3
+
+
 **Codes by Claus O. W. Trost**
 
 Published under a Creative Commons license:
