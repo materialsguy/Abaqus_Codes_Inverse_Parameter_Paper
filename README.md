@@ -13,7 +13,7 @@ This Code allows the implementation of a complex, layered sample and evaluation 
 </ul>
 
 Graphical representation of the geometrical parameters used in the simulation:
-![Image of the geometry](./Geometry.jpeg)
+![Image of the geometry](./Geometry.jpg)
 
 The Folder “Codes” includes the following files:
 
