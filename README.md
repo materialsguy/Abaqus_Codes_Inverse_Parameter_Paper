@@ -37,6 +37,7 @@ The Folder “Codes” includes the following files:
 *material_model.py:*
 <ul>
 	<li>Here your material model can be defined. Currently, published (rounded) model parameters extracted from the paper (https://doi.org/10.1016/j.matdes.2023.111711) are implemented.</li>
+	<li>Allows to implement orthotropic material parameters and checks if they are valid input parameters</li>
 </ul>
 
 *meshing.py:*
