@@ -10,7 +10,8 @@ This Code allows the implementation of a complex, layered sample and evaluation 
 <ul>
 <li>Here your Geometrical and Simulational Parameters have to be defined. </li>
 <li>You can choose between a Strain controlled and Force Controlled simulation and related Strain and Force amplitude.</li>
-<ul>
+</ul>
+
 Graphical representation of the geometrical parameters used in the simulation:
 ![alt text](https://raw.githubusercontent.com/materialsguy/Abaqus_Codes_Inverse_Parameter_Paper/main/Geometry.jpeg)
 
