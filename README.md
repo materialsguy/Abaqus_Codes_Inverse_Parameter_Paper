@@ -1,4 +1,4 @@
-# Code to “Inverse parameter determination for metal foils in multifunctional composites”
+# Code for “Inverse parameter determination for metal foils in multifunctional composites”
 
 Please cite the Paper if you use the code **https://doi.org/10.1016/j.matdes.2023.111711**
 
