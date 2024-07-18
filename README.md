@@ -2,6 +2,12 @@
 
 Please cite the Paper if you use the code **https://doi.org/10.1016/j.matdes.2023.111711**
 
+Code is citable using Zenodo 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12771586.svg)](https://doi.org/10.5281/zenodo.12771586)
+
+
+
 The code was tested on the CentOS Linux version using Abaqus 2019 .HF6. All of the Code was written in Python 2.
 
 This Code allows the implementation of a complex, layered sample and evaluation in the commercial Abaqus software.
